@@ -5,7 +5,8 @@
     "prettier/prettier": ["error"]
   },
   "env": {
-    "serviceworker": true
+    "serviceworker": true,
+    "es6": true
   },
   "parserOptions": {
     "sourceType": "module",
